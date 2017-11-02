@@ -1,0 +1,41 @@
+Item Number,Quantity,Part Reference,Value,Package,Manufacturer,Manufacturer_Part_Number,Datasheet
+1,6,C1 C2 C3 C4 C5 C27,100n,0805,Kemet,C0805C104K4RAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116ea31.pdf
+2,1,C6,10u,1206,Kemet,C1206C106K3PAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116eb59.pdf
+3,1,C7,100n,1206,Kemet,C1206C104K5RAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116ea31.pdf
+4,1,C8,47u,Case E,AVX,TAJE476K035,http://www.avx.com/docs/catalogs/taj.pdf
+5,4,C9 C10 C28 C29,22p,0805,Kemet,C0805C220J5GAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116eaf8.pdf
+6,2,C11 C12,22u,0805,Kemet,C0805C226M9PAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116eb59.pdf
+7,1,C13,1u,0805,Kemet,C0805C105K3RAC,http://docs-europe.electrocomponents.com/webdocs/134c/0900766b8134ce68.pdf
+8,46,C14 C15 C16 C17 C18 C19 C20 C22 C24 C25 C30 C31 C32 C33 C34 C35 C36 C37 C38 C39 C40 C41 C42 C43 C44 C45 C46 C47 C50 C51 C52 C53 C54 C55 C56 C57 C58 C59 C60 C61 C62 C63 C64 C65 C66 C67,100n,0603,Kemet,C0603C104K4RAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116ea31.pdf
+9,3,C21 C23 C26,4.7u,0805,Kemet,C0805C475K9PAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116eb59.pdf
+10,4,C48 C49 C68 C69,10u,0805,Kemet,C0805C106K9PAC,http://docs-europe.electrocomponents.com/webdocs/116e/0900766b8116eb59.pdf
+11,2,D1 D3,LED,0805,Avago,HSMG-C170,http://docs-europe.electrocomponents.com/webdocs/012e/0900766b8012ed88.pdf
+12,2,D2 D4,LED,0805,Avago,HSMS-C170,http://docs-europe.electrocomponents.com/webdocs/012e/0900766b8012ed88.pdf
+13,1,J1,USB RCPT MINI-B,,Molex,54819-0572,http://docs-europe.electrocomponents.com/webdocs/067f/0900766b8067f17d.pdf
+14,1,J2,DCJACK-4,SMD,Wurth Elektronik,694102107102,http://docs-europe.electrocomponents.com/webdocs/14fb/0900766b814fb468.pdf
+15,1,L1,2.7u,4828,Wurth Elektronik,7440430027,http://katalog.we-online.de/pbs/datasheet/7440430027.pdf
+16,1,L2,1.8u,5818,Wurth Elektronik,7440520018,http://katalog.we-online.de/pbs/datasheet/7440520018.pdf
+17,2,L3 L4,Ferrite bead,1206,Wurth Elektronik,74279215,http://katalog.we-online.de/pbs/datasheet/74279215.pdf
+18,1,R1,1M,0805,Panasonic,ERA6AEB105,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+19,1,R2,1.5K,0805,Panasonic,ERA6ARW152,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+20,2,R3 R4,47K,0805,Panasonic,ERA6AEB473,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+21,2,R5 R6,619K,0805,Panasonic,ERA6AEB6193V,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+22,1,R7,137K,0805,Panasonic,ERA6AEB1373,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+23,1,R8,287K,0805,Panasonic,ERA6AEB2873,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+24,4,R9 R10 R16 R17,330,0805,Panasonic,ERA6AEB331,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+25,1,R11,12K,0805,Panasonic,ERA6ARW123,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+26,4,R12 R13 R14 R20,10K,0805,Panasonic,ERA6AEB103,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+27,1,R15,1K,0805,Panasonic,ERA6AEB102,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+28,1,R18,2.2K,0805,Panasonic,ERA6ARB222,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+29,1,R19,4.7K,0805,Panasonic,ERA6AEB472,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+30,2,R21 R24,10,0805,Panasonic,ERJP6WF10R0,http://docs-europe.electrocomponents.com/webdocs/12cb/0900766b812cb812.pdf
+31,2,R22 R25,24.9K,0805,Panasonic,ERA6AEB2492,http://cis.alt.lu/cis/datasheet/panasonic.era.pdf
+32,2,R23 R26,22,0805,Panasonic,ERJP6WF22R0,http://docs-europe.electrocomponents.com/webdocs/12cb/0900766b812cb812.pdf
+33,1,U1,SN74LVC08A,SOIC-14,Texas Instruments,SN74LVC08ADR,http://www.ti.com/lit/ds/symlink/sn74lvc08a.pdf
+34,1,U2,29.4912MHz,SMD 7 x 5mm,Epson,X1G004481005612,http://www.farnell.com/datasheets/1995845.pdf?_ga=2.81737620.263071849.1504030292-1695077862.1386269904
+35,1,U3,TPS3808G33,R-PDSO-G6,Texas Instruments,TPS3808G33DBVT,http://www.ti.com/lit/ds/symlink/tps3808.pdf
+36,1,U4,LTC3622-2,MSOP-16,Linear Technology,LTC3622HMSE-2#PBF,http://cds.linear.com/docs/en/datasheet/3622fc.pdf
+37,1,U5,FT2232HL,LQFP-64,FTDI,FT2232HL,http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+38,1,U6,93LC46B/SO,SOIC-8,Microchip,93LC46B-I/SN,http://docs-europe.electrocomponents.com/webdocs/14f3/0900766b814f3ca8.pdf
+39,2,U7 U8,AMBE-3003/TQFP,LQFP-128,DVSI,AMBE-3003 PBK,http://www.dvsinc.com/manuals/AMBE-3003_manual.pdf
+40,1,Y1,12MHz,HC49,IQD Frequency Products,LFXTAL003210,http://www.iqdfrequencyproducts.com/products/details/hc49-4hsmx-17-06.pdf
